@@ -2,8 +2,7 @@ theme: jekyll-theme-minimal
 paginate: 5
 paginate_path: "/_posts/page:num/"
 logo: /assets/img/john_baldessari_brain_cloud_1024x768.jpg
-title: Of brain on cloud
-description : Thoughts on AI,ML,Cloud and Software Engineering by Vinod Seshadri
+title: Of brains on cloud
 github:
   is_project_page: false
   is_user_page: false 
