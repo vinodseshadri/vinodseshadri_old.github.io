@@ -1,12 +1,9 @@
 ---
-layout: post
+layout: default
 title: Welcome to Jekyll!
 published: true
 ---
 
----
-layout : default
----
 # Welcome
 
 **Hello world**, this is my first Jekyll blog post.
