@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Spacy on Lambda
+title: Spacy on AWS Lambda
+categories: Cloud
 published: true
 ---
 Hosting machine learning models on Amazon Web Services Lambda, is one of the cheapest ways to deploy ML models. AWS Lambda calculate costs on Lambda purely on the basis of calls and compute time, hence giving the flexibility in controlling the cost of hosting the models
