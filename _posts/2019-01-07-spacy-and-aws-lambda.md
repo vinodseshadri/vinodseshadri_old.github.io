@@ -5,8 +5,7 @@ published: true
 ---
 
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+layout: default
 ---
 # Welcome
 
