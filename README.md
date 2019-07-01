@@ -1,6 +1,5 @@
  
-## Thoughts on AI,ML,Cloud and Software Engineering 
-                 by **Vinod Seshadri**
+## Thoughts on AI,ML,Cloud and Software Engineering - Vinod Seshadri
 
 
 {% for post in site.posts %}
