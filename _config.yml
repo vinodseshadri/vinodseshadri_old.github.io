@@ -5,3 +5,5 @@ title: Of brain on cloud
 description : Technical blog on AI,ML,Cloud and Software Engineering by Vinod Seshadri
 github:
   is_project_page: false
+site:
+  github.is_user_page: false 
