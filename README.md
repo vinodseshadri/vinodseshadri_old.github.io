@@ -1,4 +1,4 @@
-### Hello world!!
+### Posts
 
 {% for post in site.posts %}
   <article>
