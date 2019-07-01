@@ -1,4 +1,6 @@
-### Posts
+## Thoughts on AI,ML,Cloud and Software Engineering by Vinod Seshadri
+
+
 
 {% for post in site.posts %}
   <article>
