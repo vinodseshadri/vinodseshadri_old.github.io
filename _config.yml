@@ -4,4 +4,4 @@ paginate_path: "/_posts/page:num/"
 title: Of brain on cloud
 description : Technical blog on AI,ML,Cloud and Software Engineering by Vinod Seshadri
 github:
-	is_project_page: false
+  is_project_page: false
