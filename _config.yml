@@ -1,4 +1,4 @@
-remote_theme: dbtek/dbyll
+theme: jekyll-theme-architect
 paginate: 5
 paginate_path: "/_posts/page:num/"
 title: Of brain on cloud
