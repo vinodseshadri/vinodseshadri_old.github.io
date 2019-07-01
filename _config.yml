@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 paginate: 5
 paginate_path: "/_posts/page:num/"
 title: Of brain on cloud
