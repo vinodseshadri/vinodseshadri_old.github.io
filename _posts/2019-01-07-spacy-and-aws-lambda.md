@@ -5,7 +5,7 @@ published: true
 ---
 
 ---
-layout: default
+layout : default
 ---
 # Welcome
 
