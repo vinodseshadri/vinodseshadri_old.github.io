@@ -1,4 +1,4 @@
-theme: jekyll-theme-hacker
+theme: jekyll-theme-minimal
 paginate: 5
 paginate_path: "/_posts/page:num/"
 title: Of brain on cloud
