@@ -1,5 +1,6 @@
  
-## <p style="text-align: center;">Thoughts on AI,ML,Cloud and Software Engineering <br/> by **Vinod Seshadri**</p>
+## Thoughts on AI,ML,Cloud and Software Engineering 
+                 by **Vinod Seshadri**
 
 
 {% for post in site.posts %}
