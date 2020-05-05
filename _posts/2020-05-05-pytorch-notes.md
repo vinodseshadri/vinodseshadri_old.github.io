@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pytorch
+title: Pytorch Notes taken
 categories: ML
 published: true
 ---
