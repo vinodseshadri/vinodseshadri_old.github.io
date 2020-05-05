@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Spacy on AWS Lambda
-categories: Cloud
+title: Pytorch
+categories: ML
 published: true
 ---
 Pytorch is widely getting used in most research papers, hence finally decided on using pytorch for my ML endeavours
